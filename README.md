@@ -4,5 +4,3 @@
 [![OrangeVinyl's GitHub stats](https://github-readme-stats.vercel.app/api?username=OrangeVinyl&show_icons=true&theme=great-gatsby)](https://github.com/OrangeVinyl/github-readme-stats)  
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OrangeVinyl&layout=compact&show_icons=true&theme=great-gatsby)](https://github.com/OrangeVinyl/github-readme-stats)
-
